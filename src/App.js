@@ -2,6 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import Navigation from './Navigation/Navigation';
+import Home from './Components/Home';
 
 // function App() {
 //   return (
@@ -28,7 +29,8 @@ class App extends React.Component {
   
   render() {
     return(
-      <Navigation></Navigation>
+      <Navigation>
+      </Navigation>
     );
   }
 }

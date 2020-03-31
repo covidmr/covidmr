@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link, Switch, Route, BrowserRouter as Router } from 'react-router-dom';
+import { Link, Switch, Route, BrowserRouter as Router, Redirect } from 'react-router-dom';
 import { Nav, Navbar } from 'react-bootstrap';
 import Home from '../Components/Home';
 import Prevention from '../Components/Prevention';
@@ -7,13 +7,12 @@ import GreenNumber from '../Components/GreenNumber';
 import About from '../Components/About';
 
 class Navigation extends React.Component {
-
     render() {
         return(
             <div className="Nav-container">
                 <Router>
                 <Navbar collapseOnSelect expand="lg" className="Nav-bar" variant="dark" fixed="top">
-                    <Navbar.Brand href="/">
+                    <Navbar.Brand as={Link} to="/">
                         <img
                             src={require("../Assets/logo.png")}
                             width="30"
@@ -34,7 +33,7 @@ class Navigation extends React.Component {
                 </Navbar>
                 
                     <Switch>
-                    <Route exact path="/">
+                        <Route exact path="/">
                             <Home />
                         </Route>
                         <Route exact path="/home">
