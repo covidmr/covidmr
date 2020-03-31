@@ -34,7 +34,10 @@ class Navigation extends React.Component {
                 </Navbar>
                 
                     <Switch>
-                        <Route exact path="/">
+                    <Route exact path="/">
+                            <Home />
+                        </Route>
+                        <Route exact path="/home">
                             <Home />
                         </Route>
                         <Route exact path="/prevention">
