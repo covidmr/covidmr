@@ -1,31 +1,31 @@
 {
   "files": {
-    "main.css": "/covidmr/home/static/css/main.cd4aa103.chunk.css",
-    "main.js": "/covidmr/home/static/js/main.8b001c04.chunk.js",
-    "main.js.map": "/covidmr/home/static/js/main.8b001c04.chunk.js.map",
-    "runtime-main.js": "/covidmr/home/static/js/runtime-main.7a059815.js",
-    "runtime-main.js.map": "/covidmr/home/static/js/runtime-main.7a059815.js.map",
-    "static/css/2.89f067aa.chunk.css": "/covidmr/home/static/css/2.89f067aa.chunk.css",
-    "static/js/2.d896fc20.chunk.js": "/covidmr/home/static/js/2.d896fc20.chunk.js",
-    "static/js/2.d896fc20.chunk.js.map": "/covidmr/home/static/js/2.d896fc20.chunk.js.map",
-    "index.html": "/covidmr/home/index.html",
-    "precache-manifest.dbb04f811c155ccc2d1c38ef4eb3f602.js": "/covidmr/home/precache-manifest.dbb04f811c155ccc2d1c38ef4eb3f602.js",
-    "service-worker.js": "/covidmr/home/service-worker.js",
-    "static/css/2.89f067aa.chunk.css.map": "/covidmr/home/static/css/2.89f067aa.chunk.css.map",
-    "static/css/main.cd4aa103.chunk.css.map": "/covidmr/home/static/css/main.cd4aa103.chunk.css.map",
-    "static/js/2.d896fc20.chunk.js.LICENSE.txt": "/covidmr/home/static/js/2.d896fc20.chunk.js.LICENSE.txt",
-    "static/media/corona.jpg": "/covidmr/home/static/media/corona.f1452b6e.jpg",
-    "static/media/coude.png": "/covidmr/home/static/media/coude.e122ebbf.png",
-    "static/media/flag-mauritania.png": "/covidmr/home/static/media/flag-mauritania.99e77e3c.png",
-    "static/media/logo.png": "/covidmr/home/static/media/logo.1c2c43ef.png",
-    "static/media/logo.svg": "/covidmr/home/static/media/logo.5d5d9eef.svg",
-    "static/media/maison.png": "/covidmr/home/static/media/maison.15917b59.png"
+    "main.css": "/covidmr/static/css/main.cd4aa103.chunk.css",
+    "main.js": "/covidmr/static/js/main.2bf8d4a6.chunk.js",
+    "main.js.map": "/covidmr/static/js/main.2bf8d4a6.chunk.js.map",
+    "runtime-main.js": "/covidmr/static/js/runtime-main.29f54fd4.js",
+    "runtime-main.js.map": "/covidmr/static/js/runtime-main.29f54fd4.js.map",
+    "static/css/2.89f067aa.chunk.css": "/covidmr/static/css/2.89f067aa.chunk.css",
+    "static/js/2.d896fc20.chunk.js": "/covidmr/static/js/2.d896fc20.chunk.js",
+    "static/js/2.d896fc20.chunk.js.map": "/covidmr/static/js/2.d896fc20.chunk.js.map",
+    "index.html": "/covidmr/index.html",
+    "precache-manifest.d302a5aba1bd1b4047f094f593af5bcf.js": "/covidmr/precache-manifest.d302a5aba1bd1b4047f094f593af5bcf.js",
+    "service-worker.js": "/covidmr/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/covidmr/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.cd4aa103.chunk.css.map": "/covidmr/static/css/main.cd4aa103.chunk.css.map",
+    "static/js/2.d896fc20.chunk.js.LICENSE.txt": "/covidmr/static/js/2.d896fc20.chunk.js.LICENSE.txt",
+    "static/media/corona.jpg": "/covidmr/static/media/corona.f1452b6e.jpg",
+    "static/media/coude.png": "/covidmr/static/media/coude.e122ebbf.png",
+    "static/media/flag-mauritania.png": "/covidmr/static/media/flag-mauritania.99e77e3c.png",
+    "static/media/logo.png": "/covidmr/static/media/logo.1c2c43ef.png",
+    "static/media/logo.svg": "/covidmr/static/media/logo.5d5d9eef.svg",
+    "static/media/maison.png": "/covidmr/static/media/maison.15917b59.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7a059815.js",
+    "static/js/runtime-main.29f54fd4.js",
     "static/css/2.89f067aa.chunk.css",
     "static/js/2.d896fc20.chunk.js",
     "static/css/main.cd4aa103.chunk.css",
-    "static/js/main.8b001c04.chunk.js"
+    "static/js/main.2bf8d4a6.chunk.js"
   ]
 }
