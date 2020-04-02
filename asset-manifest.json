@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/covidmr/static/css/main.307003be.chunk.css",
-    "main.js": "/covidmr/static/js/main.2cf6e3e0.chunk.js",
-    "main.js.map": "/covidmr/static/js/main.2cf6e3e0.chunk.js.map",
+    "main.css": "/covidmr/static/css/main.38a5f2cb.chunk.css",
+    "main.js": "/covidmr/static/js/main.9007c9eb.chunk.js",
+    "main.js.map": "/covidmr/static/js/main.9007c9eb.chunk.js.map",
     "runtime-main.js": "/covidmr/static/js/runtime-main.29f54fd4.js",
     "runtime-main.js.map": "/covidmr/static/js/runtime-main.29f54fd4.js.map",
     "static/css/2.89f067aa.chunk.css": "/covidmr/static/css/2.89f067aa.chunk.css",
-    "static/js/2.d8d7dc72.chunk.js": "/covidmr/static/js/2.d8d7dc72.chunk.js",
-    "static/js/2.d8d7dc72.chunk.js.map": "/covidmr/static/js/2.d8d7dc72.chunk.js.map",
+    "static/js/2.7392923e.chunk.js": "/covidmr/static/js/2.7392923e.chunk.js",
+    "static/js/2.7392923e.chunk.js.map": "/covidmr/static/js/2.7392923e.chunk.js.map",
     "index.html": "/covidmr/index.html",
-    "precache-manifest.db01e341db0f5d3b9e830f58b6539868.js": "/covidmr/precache-manifest.db01e341db0f5d3b9e830f58b6539868.js",
+    "precache-manifest.2efb45de89505b98f37b3a00338c8919.js": "/covidmr/precache-manifest.2efb45de89505b98f37b3a00338c8919.js",
     "service-worker.js": "/covidmr/service-worker.js",
     "static/css/2.89f067aa.chunk.css.map": "/covidmr/static/css/2.89f067aa.chunk.css.map",
-    "static/css/main.307003be.chunk.css.map": "/covidmr/static/css/main.307003be.chunk.css.map",
-    "static/js/2.d8d7dc72.chunk.js.LICENSE.txt": "/covidmr/static/js/2.d8d7dc72.chunk.js.LICENSE.txt",
+    "static/css/main.38a5f2cb.chunk.css.map": "/covidmr/static/css/main.38a5f2cb.chunk.css.map",
+    "static/js/2.7392923e.chunk.js.LICENSE.txt": "/covidmr/static/js/2.7392923e.chunk.js.LICENSE.txt",
     "static/media/corona.jpg": "/covidmr/static/media/corona.f1452b6e.jpg",
     "static/media/coude.png": "/covidmr/static/media/coude.e122ebbf.png",
     "static/media/flag-mauritania.png": "/covidmr/static/media/flag-mauritania.99e77e3c.png",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.29f54fd4.js",
     "static/css/2.89f067aa.chunk.css",
-    "static/js/2.d8d7dc72.chunk.js",
-    "static/css/main.307003be.chunk.css",
-    "static/js/main.2cf6e3e0.chunk.js"
+    "static/js/2.7392923e.chunk.js",
+    "static/css/main.38a5f2cb.chunk.css",
+    "static/js/main.9007c9eb.chunk.js"
   ]
 }
